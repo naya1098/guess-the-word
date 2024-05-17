@@ -12,7 +12,7 @@ This is a Python-based word guessing game where two players try to guess a secre
 
 ## How to Run:
 1. Copy this repository to your local machine.
-2. git clone https://github.com/idilibrahim/word_guessing_game.git
+2. git clone https://github.com/idilibrahim/guess-the-word.git
 3. Run the command: cd word_guessing_game
 
 ## Choosing a Theme:
