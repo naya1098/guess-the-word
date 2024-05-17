@@ -1,5 +1,5 @@
 # Word Guessing Game
-Python word guessing game.Players take turns guessing letters or the entire word to uncover the secret word
+Players take turns guessing letters or the entire word to uncover the secret word
 
 ## Description:
 This is a Python-based word guessing game where two players try to guess a secret word from a bank of words, they are allowed to choose their theme
